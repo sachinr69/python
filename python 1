@@ -8,5 +8,9 @@ find ascii values by python
 char = "A"
 print(ord(char))
 
+find character by ascii value
+name = 97
+print(chr(name))
+
 
 
