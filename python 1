@@ -1,4 +1,12 @@
+sum in pyhton
 a = 10
 b = 20 
 c = a+b
 print(c)
+
+find ascii values by python
+char = "A"
+print(ord(char))
+
+
+
