@@ -12,7 +12,11 @@ find character by ascii value
 name = 97
 print(chr(name))
 
-
+num=int(input(Enter value))
+if num%2==0:
+   print("Even")
+else:
+   print("odd")
 
 
 
