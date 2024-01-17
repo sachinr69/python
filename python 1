@@ -36,4 +36,6 @@ l=5
 b=4
 print(1/2*l*b)
 
+enter value,,,.......>
+num1=int(input("Enter any value")
 
