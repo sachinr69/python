@@ -136,4 +136,15 @@ c=0
 for i in range(1,a+1):
     c=c+i
 print(c)'''
-print(b)'''
+
+#wap to print "Buzz" no is multiple 3 , print"fizz" of no i ,ultiple 5.ab
+'''a=int(input("Enter the value"))
+if(a%3==0):
+   print("Buzz")
+elif(a%5==0):
+   print("Fizz")
+elif(a%15==0):
+   print("Fizz")
+else:
+   pass'''
+
