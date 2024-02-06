@@ -97,3 +97,11 @@ else:
         continue
     else: 
         print(i)'''
+
+#wap to print even number from 50 to 150        
+'''for i in range(50,150):
+    if (i%2==0):
+        print(i)
+    else: 
+        continue'''
+
