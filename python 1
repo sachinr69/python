@@ -152,3 +152,18 @@ else:
 '''celsius_temp=float(input("Enter any temeprature:"))
 fah_temp=(celsius_temp*9/5)+32
 print("Temp. in fahrenhite",fah_temp)'''
+
+#cp or sp
+cp=int(input("Enter the cp value :"))
+sp=int(input("Enter the sp value"))
+
+if sp>cp:
+    profit=sp-cp
+    print("profit",profit)
+
+elif sp<cp:
+    loss=cp-sp
+    print("loss",loss)
+
+else:
+    print( "no profit no loss")
