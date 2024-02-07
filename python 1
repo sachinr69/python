@@ -148,3 +148,7 @@ elif(a%15==0):
 else:
    pass'''
 
+#Celsius to ferhanite.
+'''celsius_temp=float(input("Enter any temeprature:"))
+fah_temp=(celsius_temp*9/5)+32
+print("Temp. in fahrenhite",fah_temp)'''
